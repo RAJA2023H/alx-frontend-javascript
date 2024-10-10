@@ -1,7 +1,7 @@
 <h1>0x04. Typescript</h1>
-<h2>JavaScript</h2>
-</h2>TypeScript</h2>
-<h3>Learning Objectives</h3>
+<h3>JavaScript</h3>
+<h3>TypeScript</h3>
+<h2>Learning Objectives</h2>
 <h4>
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
