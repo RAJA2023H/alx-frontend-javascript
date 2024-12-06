@@ -48,4 +48,3 @@ export default class ALXCourse {
     this._students = value;
   }
 }
-
